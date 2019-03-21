@@ -1,3 +1,7 @@
+name = "CSVFiles"
+uuid = "5d742f6a-9f54-50ce-8119-2520741973ca"
+version = "0.8.8"
+
 [deps]
 DataValues = "e7dc6d0d-1eca-5fa6-8ad6-5aecde8b7ea5"
 FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
